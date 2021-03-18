@@ -1,0 +1,21 @@
+advertools              advertools: Productivity and analysis tools for
+                        online marketing.
+boxoffice               Boxoffice revenues of 14,196 US movies
+kw_broad                Broad match keywords
+kw_combinations         Keyword combinations
+kw_exact                Exact match keywords
+kw_modified_broad       Modified broad match keywords
+kw_negative             Negative match keywords
+kw_negative_exact       Negative exact match keywords
+kw_negative_phrase      Negative phrase match keywords
+kw_phrase               Phrase match keywords
+sample_search_ads       A sample result of search ads
+search_ads_google       Search Ads - Google
+serp_google             Get the search engine results pages.
+stopwords_ar            Arabic stopwords
+stopwords_en            English stopwords
+twtr_get_hashtags       Extract and analyze hashtags from tweets
+twtr_get_mentions       Extract and analyze mentions from tweets
+twtr_get_urls           Extract and analyze URLs from tweets
+twtr_get_words          Extract and analyze words from tweets
+word_frequency          Word frequency

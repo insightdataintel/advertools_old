@@ -1,0 +1,29 @@
+Package: advertools
+Title: Productivity & analysis tools for online marketing
+Version: 0.0.0.9000
+Authors@R: person("Elias", "Dabbas", email = "elias@media-supermarket.com", role = c("aut", "cre"))
+Description: Tools that make the life of online marketers a little easier by
+    providing a set of functions that help in keyword generation, keyword and text
+    analysis, tracking competition, and more.
+Depends: R (>= 3.2.4), dplyr (>= 0.4.3), tidyr (>= 0.5.1), stringr (>=
+        1.0.0)
+License: MIT
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: knitr, rmarkdown, testthat
+VignetteBuilder: knitr
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: radvertools
+RemoteUsername: eliasdabbas
+RemoteRef: master
+RemoteSha: d75a1b471738eadb775f6dc4aec425a682d6082f
+GithubRepo: radvertools
+GithubUsername: eliasdabbas
+GithubRef: master
+GithubSHA1: d75a1b471738eadb775f6dc4aec425a682d6082f
+NeedsCompilation: no
+Packaged: 2020-11-25 13:32:26 UTC; igor
+Author: Elias Dabbas [aut, cre]
+Maintainer: Elias Dabbas <elias@media-supermarket.com>
+Built: R 3.6.3; ; 2020-11-25 13:32:27 UTC; unix
